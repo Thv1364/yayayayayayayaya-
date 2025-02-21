@@ -16,7 +16,7 @@ while a==0:
     if b==4:
         guess= input("guess a number this time you idiot! A NUMBER YOU INBECILE!! A NUMBER YOU COCKALORUM!!! A NUMBER YOU NINNYHAMMER!!!! \n")
     if b==5:
-        print("I don't have time for people like you. Go hide under a rock or whatever you are capable of3 doing \n")
+        print("I don't have time for people like you. Go hide under a rock or whatever you are capable of doing \n")
         break
     if b==0:
         guess = input("guess a number \n")
